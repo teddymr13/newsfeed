@@ -1,4 +1,4 @@
-# newsfeed
+# newsfeed-backend
 Section Newfeed berfungsi untuk melakukan posting data berita untuk web registrye dengan menggunakan bahasa PHP berbasis PDO dan javascript
 
 berikut ini tampilan form newsfeed :
